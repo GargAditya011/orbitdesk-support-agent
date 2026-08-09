@@ -444,3 +444,7 @@ Human Escalation
 ```
 
 The project focuses on building a reliable, grounded, and safe AI customer-support system rather than simply generating responses from an LLM.
+
+## AI Assistance Disclosure
+
+AI coding assistants were used during the development of this project for guidance, debugging, documentation, and code improvement. The submitted implementation was reviewed and understood by the author.
